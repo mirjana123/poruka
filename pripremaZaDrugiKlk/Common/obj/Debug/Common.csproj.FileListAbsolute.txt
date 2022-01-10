@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\pripremaZaDrugiKlk\Common\bin\Debug\Common.dll
+C:\Users\HP\source\repos\pripremaZaDrugiKlk\Common\bin\Debug\Common.pdb
+C:\Users\HP\source\repos\pripremaZaDrugiKlk\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\pripremaZaDrugiKlk\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\pripremaZaDrugiKlk\Common\obj\Debug\Common.dll
+C:\Users\HP\source\repos\pripremaZaDrugiKlk\Common\obj\Debug\Common.pdb
